@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=9000&pause=1000&color=F733D8&center=true&vCenter=true&random=false&width=1000&height=100&lines=Welcome+to+my+git+hub+profile+!!!;My+name+is+Wildan;A+Data+Science+Enthusiast)](https://git.io/typing-svg)
+
+![Profil Saya]()
+
 
 <h3 align="center">"You can have data without information, but you cannot have information without data"</h3>
 <h4 align="center">- Daniel Keys -</h4>
