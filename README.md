@@ -1,9 +1,6 @@
-
-![Profil Saya]()
-
-
-<h3 align="center">"You can have data without information, but you cannot have information without data"</h3>
-<h4 align="center">- Daniel Keys -</h4>
+<P align="center">
+  <img src="https://github.com/wildanmjjhd29/wildanmjjhd29/blob/main/Desain%20tanpa%20judul.png" alt="Profil Saya" width="450px"/>
+</P>
 
 ---
 
