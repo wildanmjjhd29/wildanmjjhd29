@@ -1,12 +1,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wildanmjjhd29&theme=algolia&background=0d1117&hide_border=true" />
-
-</div>
-
 --- 
 
 <p align="center">
